@@ -1,6 +1,6 @@
 # Retention-Modeling-at-Scholastic-Travel-Company
 
-##Project Aim
+## Project Aim
 The project aims to develop a predictive model to determine whether customers of the Scholastic Travel Company (STC), an educational tourism firm, will book trips again in the following school year (2013–14). The goal is to use this model to design a targeted marketing strategy that optimizes costs and improves customer retention.
 
 ## Key Questions
