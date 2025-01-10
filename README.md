@@ -31,4 +31,6 @@ The dataset includes:
 + Historical Retention Data: Information on whether the customer group returned in the following year.
 This project requires using statistical and machine learning techniques to identify patterns, evaluate performance, and deploy the results for strategic planning.
 
+I was unable to upload the original case explanation and database due to copyright issues. You can purchase the case using this link: https://hbsp.harvard.edu/product/UV7579-PDF-ENG
+
 If you have further details or specific requirements, let me know by emailing to mabba@uic.edu
